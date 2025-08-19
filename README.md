@@ -1,6 +1,6 @@
 # Costy
 # Used Technologies
-- HTML
-- CSS
-- JAVA SCRİPT
+- Html
+- Css
+- JavaScript
 # Screenshot
